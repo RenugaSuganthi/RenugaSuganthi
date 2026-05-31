@@ -22,7 +22,7 @@ public class Renuga {
 
     private final String name       = "Renuga K";
     private final String location   = "Tiruppur, Tamil Nadu, India";
-    private final String degree     = "BCA — TERF'S Academy (Graduating May 2026)";
+    private final String degree     = "BCA — TERF'S Academy (Graduated May 2026)";
     private final String email      = "lakshitharenuga@gmail.com";
 
     private final String[] stack = {
@@ -49,7 +49,7 @@ public class Renuga {
 
 <br clear="right"/>
 
-- 🎓 BCA fresher graduating **May 2026** from TERF'S Academy, Tiruppur
+- 🎓 BCA fresher graduated **May 2026** from TERF'S Academy, Tiruppur
 - 🏆 **1st Place** at Ecstasy 2K25 (Coding) | **3rd Place (National Level)** at FORZA'25 (Debugging)
 - 🔨 Built **4 full-stack projects** covering React, Spring Boot, Firebase & vanilla JS
 - 🎤 Career Guidance Speaker at **Theneer Idaivelai Programme 2024–25**
